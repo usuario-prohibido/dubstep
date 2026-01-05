@@ -1,0 +1,6 @@
+numpy
+pydub
+gTTS
+simpleaudio
+plotly
+Flask
