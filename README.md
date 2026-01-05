@@ -1,4 +1,4 @@
-# Dubstep Voz
+# Experimental music generator
 
 A Python script that synthesizes a dubstep-style track with generated speech, live Plotly waveform visualization served by Flask, and subtitle sync. The project generates and plays audio locally and provides a browser-based live waveform with low-opacity subtitles.
 
@@ -37,4 +37,7 @@ Notes
 
 License
 -------
-This repository contains example code. Add a license file as needed before publishing.
+This repository is released under the MIT License. See the `LICENSE` file for details.
+
+If you publish this project, keep the `LICENSE` file in the repository root so others can reuse the code under these terms.
+
